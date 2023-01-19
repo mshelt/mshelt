@@ -1,5 +1,5 @@
 - 👋 Hi, my name is Mike Shelton
-- 👀 I’m interested in data engineering particularly with Azure Synapse Analytics, Databricks, Azure SQL, SQL Server and PostgreSQL
+- 👀 I’m interested in data architecture and data engineering particularly with Azure Synapse Analytics, Databricks, Azure SQL, SQL Server and PostgreSQL
 
 
 <!---
